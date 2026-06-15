@@ -1,58 +1,58 @@
 [
     {
         "id": 1,
-        "name": "Produto 1",
-        "desc": "Muito bom",
+        "name": "Rosas",
+        "desc": "Elegante",
         "value":100.00,
-        "image":"/img_01.jpg"
+        "image":"public/flor1.webp"
     },
     {
        "id": 2,
-        "name": "Produto 2",
-        "desc": "Muito ruim",
+        "name": "Jasmin",
+        "desc": "Me lembra uma garota",
         "value":30.00,
-        "image":"/img_02.webp" 
+        "image":"public/flor2.jpg" 
     },
     {
         "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "name": "Girassol",
+        "desc": "Obs: aponta para o sol",
+        "value":50.00,
+        "image":"public/flor3.webp"
     },
     {
-        "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "id": 4,
+        "name": "Tulipa",
+        "desc": "Bonita",
+        "value":18.00,
+        "image":"public/flor4.webp"
     },
     {
-        "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "id": 5,
+        "name": "Orquidea",
+        "desc": "Muito bonita",
+        "value":80.00,
+        "image":"public/flor5.webp"
     },
     {
-        "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "id": 6,
+        "name": "Lírio",
+        "desc": "Linda",
+        "value":120.00,
+        "image":"public/flor6.jpg"
     },
     {
-        "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "id": 7,
+        "name": "Astromélia",
+        "desc": "Diferente",
+        "value":60.00,
+        "image":"public/flor7.jpg"
     },
     {
-        "id": 3,
-        "name": "Produto 3",
-        "desc": "Muito caro",
-        "value":300.00,
-        "image":"../public/img_03.webp"
+        "id": 8,
+        "name": "Antúrio",
+        "desc": "Simples",
+        "value":30.00,
+        "image":"public/flor8.jpg"
     }
 ]
